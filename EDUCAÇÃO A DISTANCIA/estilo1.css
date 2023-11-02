@@ -1,0 +1,241 @@
+body {
+    background-color: white;
+  }
+  
+  #introcurso:link, #introcurso:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid #2986cc;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  #introcurso:hover, #introcurso:active {
+    background-color: #2986cc;
+    color: white;
+  }
+
+  #titulo{
+    background-color:rgb(241, 249, 250);;
+    padding: 30px;
+    color:black;
+    text-decoration-line: overline;
+    text-decoration-color: #2986cc;
+  }
+
+  #introcurso{
+    text-align:center;
+    float: right;
+    margin:-100px 100px 75px -100px
+    
+  }
+#curso{
+    background-color:#f4e9f3;
+    padding: 15px;
+    text-align:center;
+   
+}
+#introduçao{
+    text-align: justify;
+    width: 700px;
+    padding: 50px; 
+    margin: auto;
+    width: 50%;
+
+}
+#um:link, #um:visited {
+  background-color:  #c3f5ae;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#um:hover, #um:active {
+  background-color:  #a1f17e;
+}
+
+#dois:link, #dois:visited {
+  background-color: #fff2cc;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#dois:hover, #dois:active {
+  background-color: #fae299;
+}
+
+#tres:link, #tres:visited {
+  background-color: #cfe2f3;
+  color: rgb(0, 0, 0);
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#tres:hover, #tres:active {
+  background-color: #a6cff3;
+}
+
+
+#botao{
+    
+    display: inline-block;
+
+
+#M1{
+    background-color: #c3f5ae;
+    text-align:center;
+    margin: 30px 50px 50px;
+    width: 300px;
+    padding: 16px;
+}
+#M2{
+    background-color: #fff2cc;
+    text-align:center;
+    margin: 30px 50px 50px;
+    width: 300px;
+    padding: 16px; 
+}
+
+#M3{
+    background-color: #cfe2f3;
+    text-align:center;
+    margin: 30px 50px 50px;
+    width: 300px;
+    padding: 16px; 
+}
+a:active {
+    text-decoration: none;
+  }
+
+}
+
+img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#titulo1M{
+  background-color:  #c3f5ae;
+    padding: 1px;
+    text-align:center;
+    width:1290px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#titulo2M{
+  background-color:  #fff2cc;
+  padding: 10px;
+  text-align:center;
+  width:1290px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#titulo3M{
+  background-color:  #cfe2f3;
+  padding: 15px;
+  text-align:center;
+  width:1270px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#modulo{
+  text-align: justify;
+  width: 700px;
+  padding: 60px; 
+  margin: auto;
+  width: 50%;
+
+}
+ul{
+  list-style-type: square
+  
+}
+
+iframe{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-right: 30px;
+  margin-left: 40px;
+  background-color: lightblue;
+}
+
+#atividade3{
+  background-color:  #a6cff3;
+}
+#atividade2{
+  background-color:  #fae299;
+}
+#atividade1{
+  background-color: #a1f17e;;
+}
+  #botaoAtividade:link, #botaoAtividade:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid #5eca30;;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  #botaoAtividade:hover, #botaoAtividade:active {
+    background-color: #5eca30;
+    color: white;
+  }
+  #critica{
+    background-color:#f4e9f3;
+  }
+
+  #enviar{
+    float :right;
+  }
+  #enviar:link, #enviar:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid #2986cc;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  #enviar:hover, #enviar:active {
+    background-color: #2986cc;
+    color: white;
+  }
+
+  #proximo{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 40px;
+  }
+  #proximo:link, #proximo:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid #996a94;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  #proximo:hover, #proximo:active {
+    background-color: #996a94;
+    color: white;
+  }
